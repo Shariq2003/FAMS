@@ -1,0 +1,74 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+myenv/
+*.venv
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Logs and debug
+*.log
+*.out
+*.err
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Test and Coverage reports
+htmlcov/
+.coverage
+*.cover
+*.py,cover
+*.pytest_cache
+
+# Pip and Package Management
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Python Environment Files
+*.env
+.env.local
+.env.*.local
+
+# Caches
+*.cache
+__pycache__/
+
+# Ignore CSV and Data Files (Optional)
+*.csv
+*.tsv
+*.dat
+*.db
+
+# Python-specific temporary files
+*.egg
+*.egg-info/
+*.pyd
+*.whl
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*.bak
+
+# Build and Dist Files
+build/
+dist/
+*.egg-info/
+
+# Exclude compiled Cython or C++ files
+*.so
+*.dll
+*.o
+*.obj
+
+
+TrainingImage
